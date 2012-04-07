@@ -46,7 +46,7 @@ CCScene* HelloWorld::scene()
 
         //create bg
         CCSprite *bg = CCSprite::spriteWithFile("bg.png");
-        bg->se
+        bg->init();
         
 		// 'layer' is an autorelease object
 		HelloWorld *layer = HelloWorld::node();
