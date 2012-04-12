@@ -25,7 +25,7 @@ THE SOFTWARE.
 ****************************************************************************/
 
 #include <stdarg.h>
-#include "CCLayer.h"
+#include <CCLayer.h>
 #include "CCTouchDispatcher.h"
 #include "CCKeypadDispatcher.h"
 #include "CCAccelerometer.h"
